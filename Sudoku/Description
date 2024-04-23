@@ -1,8 +1,11 @@
 In the project, I implemented the game sudoku in C.
 The player is asked to choose whether to play against time or by difficulty level.
-Against time
+
+
+Against time-
 The bord is 5X5 and the player has 60 seconds to solve it.
 The player is asked to place a number on the board, then it's displayed as well as the time left.
+
 Difficulty level-
 There are 3 difficulty levels-
 1. Easy- board of 4X4
