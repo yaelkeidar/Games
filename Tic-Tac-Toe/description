@@ -1,0 +1,7 @@
+In the project, I implemented the game tic-tac-toe in C.
+
+At first, the player chooses if to play another player or against the computer.
+Then they need to choose how many rounds to play.
+
+The player enters a move and then it's the computer's turn (or the other player's turn).
+They will play until there is a winner for the round, and game ends after playing all the rounds.
