@@ -7,4 +7,4 @@ The games are-
 3. Tic-Tac-Toe
 4. Rock-Paper-Scissors
 
-![צילום מסך 2024-04-23 232539](https://github.com/yaelkeidar/Games/assets/154610976/240a04fc-d2ba-431f-a2f9-1693760372ff)
+![צילום מסך 2024-04-23 232539](https://github.com/yaelkeidar/Games/assets/154610976/20aabd5d-764f-4742-8050-a0e88aff737d)
