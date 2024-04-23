@@ -1,0 +1,5 @@
+In the project, I implemented the game hang-man in C.
+
+I included a text file with a list of words. The game randomly chooses a word for the player.
+The player needs to guess a letter and the game will show if the letter is in the word or not.
+The player can make 5 mistakes before losing.
