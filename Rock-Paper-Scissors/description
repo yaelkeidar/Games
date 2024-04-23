@@ -1,0 +1,14 @@
+In the project, I implemented the game rock-paper-scissors in C.
+
+At the beginning, the player is asked to choose how many rounds to play.
+  
+Then the player needs to choose a move (rock, paper or scissors).
+  
+The computer's move will be seen.
+  
+It's chosen randomly.
+  
+After knowing the computer's turn, we know who won the round.
+  
+The winner of the game is whoever won more rounds.
+
